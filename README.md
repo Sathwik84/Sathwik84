@@ -29,7 +29,7 @@
 ---
 
 ## 👨‍💻 About Me
-- 🎓 Computer Science Engineering(Artifical Intellihence & Machine Learning) Student
+- 🎓 Computer Science Engineering(Artifical Intelligence & Machine Learning) Student
 - 🤖 Passionate about Artificial Intelligence & Agentic AI
 - 🏥 Building Healthcare AI Systems & Intelligent Assistants
 - 🌱 Currently learning LLMs, FastAPI, React & System Design
