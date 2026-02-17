@@ -5,6 +5,10 @@
 
 ## 🌐 Connect With Me
 <p align="center">
+  <a href="https://ksathwikportfolio.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+</a>
+
   <a href="https://linkedin.com/in/sathwik-kaparthy-732a92376" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -78,15 +82,15 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sathwik84&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sathwik84&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
 ## 🔥 GitHub Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=Sathwik84&theme=tokyonight"/>
 </p>
 
 ---
